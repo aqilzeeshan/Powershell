@@ -1,0 +1,2 @@
+﻿Set-Content -Path C:\StartupScript.ps1 -Value "Import-Module NetTCPIP"
+Register-PSSessionConfiguration -Name "NetTCPIP" -StartupScript C:\StartupScript.ps1

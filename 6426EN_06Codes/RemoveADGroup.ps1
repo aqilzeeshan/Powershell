@@ -1,0 +1,1 @@
+Get-ADGroup -filter 'Name -like "Product*' | Remove-ADGroup

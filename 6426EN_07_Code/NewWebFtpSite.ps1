@@ -1,0 +1,1 @@
+New-WebFtpSite -Name testFtpSite -Port 21 -PhysicalPath c:\test -HostHeader mySite -IPAddress 127.0.0.1

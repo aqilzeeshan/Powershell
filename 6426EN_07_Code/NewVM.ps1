@@ -1,0 +1,1 @@
+New-VM -Name MyVM -Path D:\vm -VHDPath D:\vm\vhd\MyVMvhd.vhdx -MemoryStartupBytes 2GB

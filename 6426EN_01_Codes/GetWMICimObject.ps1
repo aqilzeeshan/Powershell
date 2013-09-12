@@ -1,0 +1,1 @@
+﻿Get-WMIObject -Class Win32_Process -Namespace root/cimv2 -ComputerName . | Format-Wide

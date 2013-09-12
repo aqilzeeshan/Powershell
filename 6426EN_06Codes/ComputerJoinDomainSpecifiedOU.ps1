@@ -1,0 +1,1 @@
+Add-Computer -DomainOrWorkgroupName fuhaijun -OUPath OU=testOU,DC=fuhaijun,DC=com

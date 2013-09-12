@@ -1,0 +1,1 @@
+﻿Add-PswaAuthorizationRule -UserName PSWA\Administrator -ComputerName PSWA -ConfigurationName Microsoft.PowerShell

@@ -1,0 +1,1 @@
+Add-VMNetworkAdapter -VMName MyVM -SwitchName MyVMSwitch

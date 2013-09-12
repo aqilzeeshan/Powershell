@@ -1,0 +1,1 @@
+Get-ADDomainController -Identity Win2012-AD | FT Name,Site

@@ -1,0 +1,1 @@
+New-WebVirtualDirectory -Site "Default Web Site" -Name TestVDir -PhysicalPath c:\inetpub\virtualdir

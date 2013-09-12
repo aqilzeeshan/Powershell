@@ -1,0 +1,1 @@
+Remove-VMSnapshot ¨CName BeforeInstall ¨CVMName MyVM

@@ -1,0 +1,1 @@
+Checkpoint-VM -Name MyVM -SnapshotName BeforeInstall

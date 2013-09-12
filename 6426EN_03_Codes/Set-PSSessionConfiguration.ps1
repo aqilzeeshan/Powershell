@@ -1,0 +1,1 @@
+﻿Set-PSSessionConfiguration -Name NetTCPIP -ShowSecurityDescriptorUI

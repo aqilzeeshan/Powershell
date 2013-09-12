@@ -1,0 +1,1 @@
+Add-VMDvdDrive -VMName MyVM -Path D:\CentOS6.3_KS1-x86_64.iso

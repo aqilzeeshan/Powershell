@@ -1,0 +1,1 @@
+﻿Install-WindowsFeature WindowsPowerShellWebAccess -IncludeAllSubFeature -IncludeManagementTools

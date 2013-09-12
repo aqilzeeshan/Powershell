@@ -1,0 +1,1 @@
+Add-VMHardDiskDrive -VMName MyVM -Path D:\vm\vhd\disk1.vhdx

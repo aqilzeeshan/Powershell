@@ -1,0 +1,1 @@
+﻿Get-WSManInstance winrm/config/plugin -Enumerate -ComputerName win-8 | Where ` { $_.FileName -like '*pwrshplugin.dll'} | Select Name

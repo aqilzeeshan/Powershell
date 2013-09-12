@@ -1,0 +1,1 @@
+Get-AppLockerFileInformation -Directory C:\Windows\System32 -Recurse -FileType exe

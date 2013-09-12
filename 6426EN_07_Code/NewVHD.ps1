@@ -1,0 +1,1 @@
+New-VHD -Path D:\vm\vhd\MyVMvhd.vhdx -SizeBytes 20GB -ParentPath D:\vhd\webserver.vhdx -Differencing

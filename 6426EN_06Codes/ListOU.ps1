@@ -1,0 +1,1 @@
+Get-ADOrganizationalUnit -Filter 'Name -like "*"' | ft -AutoSize

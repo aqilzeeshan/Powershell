@@ -1,0 +1,1 @@
+Rename-Computer -NewName win8client2 -DomainCredential fuhaijun\administrator ¨CRestart

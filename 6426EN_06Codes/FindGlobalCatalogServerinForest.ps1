@@ -1,0 +1,1 @@
+Get-ADForest Fuhaijun.com | FL GlobalCatalogs

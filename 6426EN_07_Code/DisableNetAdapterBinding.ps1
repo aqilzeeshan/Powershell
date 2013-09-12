@@ -1,0 +1,1 @@
+Disable-NetAdapterBinding -Name "Ethernet 2" -ComponentID ms_lltdio

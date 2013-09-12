@@ -1,0 +1,1 @@
+New-GPO -Name TestGPO -Comment "This is a GPO for test"

@@ -1,0 +1,1 @@
+Get-ACL (Get-ADGroup UserGroup) | fl * -f

@@ -1,0 +1,1 @@
+Set-AppLockerPolicy -XMLPolicy C:\Policy.xml -LDAP "LDAP://Win2012AD.fuhaijun.com/CN={31B2F340-016D-11D2-945F-00C04FB984F9},CN=Policies,CN=System,DC=fuhaijun,DC=com"

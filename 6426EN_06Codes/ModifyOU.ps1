@@ -1,0 +1,1 @@
+Set-ADOrganizationalUnit -Identity "OU=TestOU,DC=Fuhaijun,DC=COM" -Description "This Organizational Unit is a test OU of Fuhaijun.COM"

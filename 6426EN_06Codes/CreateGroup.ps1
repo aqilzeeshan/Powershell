@@ -1,0 +1,1 @@
+New-ADGroup -Name "Product Admins" -SamAccountName ProductAdmins -GroupCategory Security -GroupScope Global -DisplayName "Product Administrators" -Path "CN=Users,DC=fuhaijun,DC=Com"

@@ -1,0 +1,1 @@
+Get-GPO -All -Domain fuhaijun.com

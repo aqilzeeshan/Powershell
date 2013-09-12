@@ -1,0 +1,1 @@
+Get-NetIPAddress -InterfaceAlias Ethernet

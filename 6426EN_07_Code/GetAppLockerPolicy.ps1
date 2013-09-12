@@ -1,0 +1,1 @@
+Get-AppLockerPolicy ¨CLocal ¨CXml -XMLPolicy C:\Policy.xml

@@ -1,0 +1,4 @@
+Backup-WebConfiguration -Name MyIISConfigBackup
+Get-WebConfigurationBackup
+Restore-WebConfiguration -Name MyIISConfigBackup
+Remove-WebConfiguration -Name MyIISConfigBackup

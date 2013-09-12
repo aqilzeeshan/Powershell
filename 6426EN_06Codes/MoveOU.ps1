@@ -1,0 +1,1 @@
+Move-ADObject "OU=ManagedGroups,DC=Fuhaijun,DC=Com" -TargetPath "OU=Managed,DC=Fuhaijun,DC=Com"

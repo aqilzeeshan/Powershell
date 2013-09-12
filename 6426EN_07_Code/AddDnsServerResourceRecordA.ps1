@@ -1,0 +1,1 @@
+Add-DnsServerResourceRecordA -IPv4Address 192.168.10.1 -Name gateway -ZoneName fuhaijun.com

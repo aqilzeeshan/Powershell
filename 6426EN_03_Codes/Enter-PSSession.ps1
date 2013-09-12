@@ -1,0 +1,1 @@
+﻿Enter-PSSession -ComputerName win-8

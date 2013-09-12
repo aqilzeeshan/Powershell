@@ -1,0 +1,1 @@
+Get-ADDomainController -Discover -DomainName fuhaijun.com

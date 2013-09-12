@@ -1,0 +1,1 @@
+﻿Get-Process | Sort-Object -Descending CPU | Select ProcessName

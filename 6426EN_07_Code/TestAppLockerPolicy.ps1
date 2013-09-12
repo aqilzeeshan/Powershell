@@ -1,0 +1,1 @@
+Test-AppLockerPolicy C:\Policy.xml -Path C:\WINDOWS\system32\mspaint.exe C:\WINDOWS\system32\taskmgr.exe -User Everyone

@@ -1,0 +1,1 @@
+Get-ChildItem C:\Windows\System32\*.exe | Get-AppLockerFileInformation | New-AppLockerPolicy -RuleType Publisher,Hash -User Everyone -RuleNamePrefix System32

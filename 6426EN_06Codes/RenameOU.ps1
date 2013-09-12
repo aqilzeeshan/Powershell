@@ -1,0 +1,1 @@
+Rename-ADObject "OU=TestOU, DC=Fuhaijun,DC=Com" -NewName Groups

@@ -1,0 +1,1 @@
+Add-Computer Win8Client -DN fuhaijun -Server Win2012-ad

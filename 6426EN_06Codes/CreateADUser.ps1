@@ -1,0 +1,1 @@
+New-ADUser -SamAccountName TestUser -Name "A Test User¡± -AccountPassword (ConvertTo-SecureString -AsPlainText "p@ssw0rd" -Force) -Enabled $true -Path 'OU=Test,DC=FUHAIJUN,DC=COM'

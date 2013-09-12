@@ -1,0 +1,1 @@
+﻿Install‑ADDSDomain ‑NewDomainName corp ‑ParentDomainName contoso.local ‑SafeModeAdministratorPassword (ConvertTo‑SecureString P@ssw0rd ‑AsPlainText ‑Force) ‑CreateDnsDelegation ‑Credential (Get‑Credential Contoso\Administrator) ‑DomainMode Win2012 ‑DomainType ChildDomain

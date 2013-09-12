@@ -1,0 +1,1 @@
+﻿Install-PswaWebApplication -WebSiteName "Default Web Site" -WebApplicationName "PSWA" -UseTestCertificate

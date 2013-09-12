@@ -1,0 +1,1 @@
+﻿Invoke-Command -Session $session -ScriptBlock {Get-Service}

@@ -1,0 +1,3 @@
+﻿$serviceName="WinRM"
+Invoke-Command -ComputerName (Get-Content c:\servers.txt) -ScriptBlock 
+{param($Name) Get-Service -Name $Name} -ArgumentList $serviceName
